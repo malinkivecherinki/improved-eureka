@@ -27,3 +27,9 @@ def fetch_json(url):
 def new_function_14():
     """New function added in update 14."""
     return 14
+
+
+# Update 15
+def new_function_15():
+    """New function added in update 15."""
+    return 15
